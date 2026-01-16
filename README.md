@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MonoPure
 =======
 # MonoKey: Occlusion-Robust Keypoint-based Monocular 3D Object Detection with Prior Guidance
@@ -61,4 +61,4 @@ The best checkpoint will be evaluated as default. You can change it at "tester/c
 
 ## Acknowlegment
 This repo benefits from the excellent work [MonoDGP](https://github.com/PuFanqi23/MonoDGP).
->>>>>>> 4e3f05c (Initial commit)
+
